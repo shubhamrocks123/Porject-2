@@ -1,1 +1,1 @@
-Utility function for the Git.
+Utility function for the Git2.
